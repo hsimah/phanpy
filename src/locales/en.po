@@ -1384,7 +1384,6 @@ msgstr "Following"
 
 #: src/components/nav-menu.jsx:203
 #: src/pages/catchup.jsx:1003
-#: src/pages/welcome.jsx:154
 msgid "Catch-up"
 msgstr ""
 
@@ -1481,9 +1480,9 @@ msgstr ""
 
 #: src/components/nav-menu.jsx:332
 #: src/pages/login.jsx:33
-#: src/pages/login.jsx:227
+#: src/pages/login.jsx:221
 #: src/pages/status.jsx:1081
-#: src/pages/welcome.jsx:63
+#: src/pages/welcome.jsx:61
 msgid "Log in"
 msgstr ""
 
@@ -2329,7 +2328,7 @@ msgstr ""
 #: src/components/shortcuts-settings.jsx:78
 #: src/components/shortcuts-settings.jsx:87
 #: src/components/shortcuts-settings.jsx:125
-#: src/pages/login.jsx:231
+#: src/pages/login.jsx:225
 msgid "Server"
 msgstr "Server"
 
@@ -3062,7 +3061,7 @@ msgstr "Login required."
 #: src/compose.jsx:95
 #: src/pages/annual-report.jsx:186
 #: src/pages/http-route.jsx:91
-#: src/pages/login.jsx:309
+#: src/pages/login.jsx:303
 msgid "Go home"
 msgstr ""
 
@@ -3806,32 +3805,32 @@ msgstr ""
 msgid "No lists yet."
 msgstr ""
 
-#: src/pages/login.jsx:125
-#: src/pages/login.jsx:137
+#: src/pages/login.jsx:119
+#: src/pages/login.jsx:131
 msgid "Failed to register application"
 msgstr "Failed to register application"
 
-#: src/pages/login.jsx:246
+#: src/pages/login.jsx:240
 msgid "server domain"
 msgstr "server domain"
 
-#: src/pages/login.jsx:271
+#: src/pages/login.jsx:265
 msgid "e.g. “mastodon.social”"
 msgstr ""
 
-#: src/pages/login.jsx:282
+#: src/pages/login.jsx:276
 msgid "Failed to log in. Please try again or try another server."
 msgstr "Failed to log in. Please try again or try another server."
 
-#: src/pages/login.jsx:294
+#: src/pages/login.jsx:288
 msgid "Continue with {selectedInstanceText}"
 msgstr ""
 
-#: src/pages/login.jsx:295
+#: src/pages/login.jsx:289
 msgid "Continue"
 msgstr ""
 
-#: src/pages/login.jsx:303
+#: src/pages/login.jsx:297
 msgid "Don't have an account? Create one!"
 msgstr ""
 
@@ -4484,88 +4483,12 @@ msgstr ""
 msgid "No trending posts."
 msgstr ""
 
-#: src/pages/welcome.jsx:52
-msgid "A minimalistic opinionated Mastodon web client."
-msgstr ""
+#: src/pages/welcome.jsx:50
+msgid "pulsr | A social media platform for pomskies."
+msgstr "pulsr | A social media platform for pomskies."
 
-#: src/pages/welcome.jsx:63
+#: src/pages/welcome.jsx:61
 msgid "Log in with Mastodon"
-msgstr ""
-
-#: src/pages/welcome.jsx:69
-msgid "Sign up"
-msgstr ""
-
-#: src/pages/welcome.jsx:76
-msgid "Connect your existing Mastodon/Fediverse account.<0/>Your credentials are not stored on this server."
-msgstr ""
-
-#: src/pages/welcome.jsx:96
-msgid "Screenshot of Phanpy home timeline on mobile device"
-msgstr "Screenshot of Phanpy home timeline on mobile device"
-
-#: src/pages/welcome.jsx:113
-msgid "Screenshot of Phanpy home timeline on tablet device"
-msgstr "Screenshot of Phanpy home timeline on tablet device"
-
-#: src/pages/welcome.jsx:127
-msgid "Screenshot of Boosts Carousel"
-msgstr ""
-
-#: src/pages/welcome.jsx:134
-msgid "Boosts Carousel"
-msgstr ""
-
-#: src/pages/welcome.jsx:137
-msgid "Visually separate original posts and re-shared posts (boosted posts)."
-msgstr ""
-
-#: src/pages/welcome.jsx:147
-msgid "Screenshot of Catch-up"
-msgstr "Screenshot of Catch-up"
-
-#: src/pages/welcome.jsx:157
-msgid "A separate timeline for followings. Email-inspired interface to sort and filter posts."
-msgstr "A separate timeline for followings. Email-inspired interface to sort and filter posts."
-
-#: src/pages/welcome.jsx:167
-msgid "Screenshot of nested comments thread"
-msgstr ""
-
-#: src/pages/welcome.jsx:174
-msgid "Nested comments thread"
-msgstr ""
-
-#: src/pages/welcome.jsx:177
-msgid "Effortlessly follow conversations. Semi-collapsible replies."
-msgstr ""
-
-#: src/pages/welcome.jsx:186
-msgid "Screenshot of multi-column UI"
-msgstr ""
-
-#: src/pages/welcome.jsx:193
-msgid "Single or multi-column"
-msgstr ""
-
-#: src/pages/welcome.jsx:196
-msgid "By default, single column for zen-mode seekers. Configurable multi-column for power users."
-msgstr ""
-
-#: src/pages/welcome.jsx:206
-msgid "Screenshot of multi-hashtag timeline with a form to add more hashtags"
-msgstr ""
-
-#: src/pages/welcome.jsx:213
-msgid "Multi-hashtag timeline"
-msgstr ""
-
-#: src/pages/welcome.jsx:216
-msgid "Up to 5 hashtags combined into a single timeline."
-msgstr ""
-
-#: src/pages/welcome.jsx:231
-msgid "<0>Built</0> by <1>@cheeaun</1>. <2>Privacy Policy</2>."
 msgstr ""
 
 #: src/utils/open-compose.js:24

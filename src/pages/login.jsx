@@ -57,12 +57,6 @@ function Login() {
     })();
   }, []);
 
-  // useEffect(() => {
-  //   if (cachedInstanceURL) {
-  //     instanceURLRef.current.value = cachedInstanceURL.toLowerCase();
-  //   }
-  // }, []);
-
   const submitInstance = (instanceURL) => {
     if (!instanceURL) return;
 
