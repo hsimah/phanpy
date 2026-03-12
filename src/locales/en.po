@@ -1482,7 +1482,7 @@ msgstr ""
 #: src/pages/login.jsx:33
 #: src/pages/login.jsx:221
 #: src/pages/status.jsx:1081
-#: src/pages/welcome.jsx:61
+#: src/pages/welcome.jsx:49
 msgid "Log in"
 msgstr ""
 
@@ -4483,11 +4483,11 @@ msgstr ""
 msgid "No trending posts."
 msgstr ""
 
-#: src/pages/welcome.jsx:50
-msgid "pulsr | A social media platform for pomskies."
-msgstr "pulsr | A social media platform for pomskies."
+#: src/pages/welcome.jsx:38
+msgid "pulsr | a social media platform for pomskies."
+msgstr "pulsr | a social media platform for pomskies."
 
-#: src/pages/welcome.jsx:61
+#: src/pages/welcome.jsx:49
 msgid "Log in with Mastodon"
 msgstr ""
 

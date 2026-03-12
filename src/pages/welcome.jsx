@@ -2,21 +2,9 @@ import './welcome.css';
 
 import { Trans, useLingui } from '@lingui/react/macro';
 
-import boostsCarouselUrl from '../assets/features/boosts-carousel.jpg';
-import catchupUrl from '../assets/features/catch-up.png';
-import multiColumnUrl from '../assets/features/multi-column.jpg';
-import multiHashtagTimelineUrl from '../assets/features/multi-hashtag-timeline.jpg';
-import nestedCommentsThreadUrl from '../assets/features/nested-comments-thread.jpg';
 import logo from '../assets/pulsr-logo.jpg';
-import logoText from '../assets/logo-text.png';
-import homeMobileDark from '../assets/screenshots/home-mobile-dark@2x.png';
-import homeMobileLight from '../assets/screenshots/home-mobile-light@2x.png';
-import homeTabletDark from '../assets/screenshots/home-tablet-dark@2x.png';
-import homeTabletLight from '../assets/screenshots/home-tablet-light@2x.png';
 
-import LangSelector from '../components/lang-selector';
 import Link from '../components/link';
-import states from '../utils/states';
 import useTitle from '../utils/useTitle';
 
 const {
@@ -47,7 +35,7 @@ function Welcome() {
             <img src={logo} alt="" width="30%" height="30%" />
           </h1>
           <p class="desc">
-            <Trans>pulsr | A social media platform for pomskies.</Trans>
+            <Trans>pulsr | a social media platform for pomskies.</Trans>
           </p>
           <p>
             <Link
